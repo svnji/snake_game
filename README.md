@@ -1,12 +1,12 @@
 # snake game
 This is a command-line version of the classic Snake game, where the goal is to eat the pi character (π) and avoid eating yourself.
 
-Features
+# Features
 Classic Snake Gameplay: Control the snake to eat the pi character and grow longer.
 
 Game Over Conditions: The game ends if the snake eats itself.
 
-Installation
+# Installation
 
 To run the game locally, follow these steps:
 
@@ -39,7 +39,7 @@ Ensure you have the necessary dependencies by running:
 ```bash
 requirements.cmd
 ```
-Usage
+# Usage
 
 Run the executable or the Python script.
 
@@ -49,7 +49,7 @@ Eat the pi character (π) to grow.
 
 Avoid running into the walls or yourself.
 
-Files
+# Files
 
 main.py: The main Python script for the game.
 
@@ -61,14 +61,14 @@ _internal: Internal game resources.
 
 README.md: This README file.
 
-Contributing
+# Contributing
 
 If you would like to contribute to the project, feel free to fork the repository and submit a pull request. Contributions are welcome!
 
-License
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+# Contact
 
 For any questions or suggestions, please open an issue in the repository.
